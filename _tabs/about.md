@@ -1,3 +1,8 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
 # Intro
 👋🏻 Hello, I am Nathan, a technical professional from the UK. I have a deep passion for technology, especially **AI**, **Automation**, **System Administration**, **Cloud Service** and **DevOps**.
 
