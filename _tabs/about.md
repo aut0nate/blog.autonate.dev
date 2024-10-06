@@ -1,5 +1,4 @@
 # Intro
-
 👋🏻 Hello, I am Nathan, a technical professional from the UK. I have a deep passion for technology, especially **AI**, **Automation**, **System Administration**, **Cloud Service** and **DevOps**.
 
 I have experience in working across multiple operating systems, including **Linux**, **macOS**, and **Windows**. My personal preference sees me alternate between **macOS** and **Linux** (my distro of choice is **Fedora**).
@@ -16,7 +15,6 @@ I created this blog to share my journey through the ever-changing landscape of t
 This blog is not only a place for me to organise and document technical knowledge, but also to share what I've learned with others. Whether you're looking for software recommendations, useful automations, interesting developments in AI, or deep dives into Linux commands I hope you'll find something valuable here.
 
 ## My Interests
-
 When I'm not diving into the latest tech developments, I enjoy:
 
 - **Football**
