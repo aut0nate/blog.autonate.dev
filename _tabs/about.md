@@ -28,4 +28,4 @@ Outside of the tech world, I have a passion for:
 - **History** – Delving into the past, particularly the 19th and 20th centuries.
 - **Travel** – Exploring new cultures and destinations around the world.
 
-Feel free to connect with me via my social links, and thanks for stopping by!
+Feel free to connect with me via my social links. Thanks for stopping by!
