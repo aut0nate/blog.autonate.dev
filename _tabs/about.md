@@ -1,3 +1,5 @@
+# Intro
+
 👋🏻 Hello, I am Nathan, a technical professional from the UK. I have a deep passion for technology, especially **AI**, **Automation**, **System Administration**, **Cloud Service** and **DevOps**.
 
 I have experience in working across multiple operating systems, including **Linux**, **macOS**, and **Windows**. My personal preference sees me alternate between **macOS** and **Linux** (my distro of choice is **Fedora**).
