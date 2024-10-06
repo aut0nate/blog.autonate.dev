@@ -16,9 +16,9 @@ timezone: Europe/London
 
 title: Nathan Darker # the main title
 
-tagline: A technical blog and personal knowledge repository, sharing guides, tutorials, and insights. # it will display as the subtitle
+tagline: A technical blog and personal knowledge repository, sharing guides, tutorials, and insights # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: Nathan Darker -  A technical blog and personal knowledge repository, sharing guides, tutorials, and insights # used by seo meta and the atom feed
   
 
 # Fill in the protocol & hostname for your site.
@@ -36,10 +36,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/aut0nate # change to your GitHub homepage
-    - https://www.linkedin.com/in/nathandarker # change to your LinkedIn homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/nathandarker # change to your LinkedIn homepage
 
 # Site Verification Settings
 webmaster_verifications:
