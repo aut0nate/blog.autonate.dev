@@ -27,4 +27,5 @@ There’s something incredibly satisfying about working in a command-line enviro
 
 One of the lesser-known facts about Linux is just how ubiquitous it is. Whether you realise it or not, most of us interact with Linux every day. From the Android devices in our pockets to the servers that power the internet, Linux is everywhere. It runs on supercomputers, smart home devices, cloud platforms like AWS and Azure, and even in-car infotainment systems. Major companies, including Microsoft, Google, Facebook, and Amazon, rely on Linux-based infrastructure to keep their services running smoothly. It's amazing to think that much of our digital world is built on Linux, often without us realising it.
 
+
 In conclusion, Linux provides a platform for exploration, creativity, and continuous learning. It’s more than just an OS for me—it’s a community and a tool for growth. Whether you’re a seasoned developer or someone just curious about Linux, I highly recommend giving it a try.
