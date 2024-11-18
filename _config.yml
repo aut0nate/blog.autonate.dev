@@ -31,15 +31,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  # name: Nathan Darker
-  # email: contact@nathandarker.it # change to your email address
+  # name: autonate.dev
+  # email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/aut0nate # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/nathandarker # change to your LinkedIn homepage
-		- https://bsky.app/profile/autonate.dev
+    #- https://example.com # change to your GitHub homepage
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
