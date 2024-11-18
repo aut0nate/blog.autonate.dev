@@ -12,11 +12,11 @@
 
 - type: bluesky
 	icon: 'fa-brands fa-bluesky'
-	url: 'https://bsky.app/profile/autonate.dev' #Fill with your Bluesky profile link
+	url: 'https://bsky.app/profile/autonate.dev'. #Fill with your Bluesky profile link
 
 # - type: email
-# icon: "fas fa-envelope"
-# noblank: true # open link in current tab
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
