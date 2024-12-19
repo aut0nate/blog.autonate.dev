@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Power of Regex Filters in Inoreader"
 date: 2024-04-16 20:10:02
-categories: [RSS,Productivity]
+categories: [RSS][Productivity]
 tags: [RSS,Productivity]
 ---
 
