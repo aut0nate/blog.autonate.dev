@@ -18,3 +18,5 @@ gem 'jekyll'
 group :jekyll_plugins do
   gem 'jekyll-postfiles'
 end
+
+gem 'jekyll-minifier'
