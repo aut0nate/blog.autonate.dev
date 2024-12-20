@@ -65,7 +65,7 @@ Creating filters in Inoreader is straightforward but requires a Pro plan to acce
 4. **Click Create filter.**
 5. In the filter creation interface, **select Content filter** to start crafting your custom filter.
 
-![Inoreader Filters](inoreader-filters.png)
+![Inoreader Filters](/assets/images/blog/2024-04-16-inoreader-regex-filters.png)
 
 This process allows you to apply Regex expressions or other rules to refine the content in your feeds. The powerful customisation and control it provides make the Pro plan an invaluable tool for heavy users.
 
