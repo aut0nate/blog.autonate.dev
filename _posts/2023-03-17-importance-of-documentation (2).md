@@ -4,21 +4,23 @@ date: 2023-03-17 14:54:12
 categories: [Productivity]
 tags: [Productivity]
 ---
-  
 
 In the fast-paced world of technology, keeping up with new tools, concepts, and workflows can feel overwhelming. That’s why I rely heavily on documentation—it’s not just a task; it’s a mindset. Documentation serves as my **second brain**, a system I can rely on to store, organise, and retrieve the knowledge I’ve accumulated over time. It helps me stay sharp, grow professionally, and contribute to others’ understanding. Here’s why it’s so important to me and how I approach it.
 
+---
 
 ## Why I Always Make Time for Documentation  
 
 For me, documentation is more than writing things down—it’s about creating a structured system to **capture knowledge and link it together**. Whenever I learn something new, solve a complex issue, or explore an idea, I document it. This habit ensures that even if I forget the details later, I have a reliable reference to go back to.
 
 In my documentation system, I use **backlinks** to connect related notes, providing structure and context. For example:
+
 - A note on Linux commands might link to a broader guide on system administration.
 - A PowerShell script explanation might connect to a project where it was implemented.
 
 These connections turn isolated pieces of knowledge into a **network of insights**, helping me see the bigger picture and find what I need quickly.  
 
+---
 
 ## The Importance of Documentation in Technology  
 
@@ -31,6 +33,7 @@ Working in the technology industry means living in a world of constant change. N
 
 As **knowledge workers**, we should take knowledge seriously. It’s the foundation of our growth, the key to solving problems, and the way we pass value on to others.
 
+---
 
 ## Why I Chose Craft as My Documentation Tool  
 
@@ -44,9 +47,10 @@ I’ve experimented with a lot of tools over the years, from **OneNote** to **Ob
 
 Craft has become the cornerstone of my documentation system, helping me organise my second brain in a way that’s both functional and enjoyable. If you’re looking for a powerful tool to enhance your documentation workflow, I highly recommend checking out [Craft](https://www.craft.do/).  
 
+---
 
 ## Take Knowledge Seriously  
 
 In the end, documentation isn’t just about writing things down—it’s about taking knowledge seriously. It’s about valuing what you learn, building a system to retain it, and sharing it with others to make a positive impact. For me, documentation is a habit I’ll never stop prioritising.  
 
-If you’re not already documenting regularly, now is the perfect time to start. Find a tool that works for you, build a system that grows with you, and watch how it transforms your ability to learn, solve problems, and contribute meaningfully.  
+If you’re not already documenting regularly, now is the perfect time to start. Find a tool that works for you, build a system that grows with you, and watch how it transforms your ability to learn, solve problems, and contribute meaningfully.

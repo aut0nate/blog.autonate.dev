@@ -5,8 +5,9 @@ categories: [Linux]
 tags: [Linux]
 ---
 
-
 For many new Linux users, the command line can feel intimidating—an unforgiving interface where one wrong move could wreak havoc. You might worry about typing the wrong command, forgetting what to do, or feeling like you need to memorise a dictionary’s worth of commands to get started. I understand this fear—I’ve been there. But the command line isn’t something to fear; it’s a powerful tool that, with a little practice, becomes second nature.  
+
+---
 
 ## Common Fears About the Command Line  
 
@@ -18,7 +19,9 @@ Let’s address some common reasons why people are apprehensive about the comman
 
 I faced many of these challenges myself. I remember the frustration of feeling like I had to memorise every single command and option. I would stress over forgetting commands, convinced that I couldn’t effectively use Linux unless I remembered them all. This pressure was not only unnecessary but also counterproductive.  
 
-## How I Overcame the Stress
+---
+
+## How I Overcame the Fear
 
 The turning point for me was recognising that no one memorises every command. Instead, I decided to build a **repository of useful commands** that I could refer back to when needed. This personal collection became a valuable resource and reduced my anxiety.  
 
@@ -35,6 +38,7 @@ Linux commands are logical, and their real power comes from combining them to so
 Here are some of the **key commands** you should know to get started, along with what each one does:  
 
 ### File and Directory Management  
+
 - `pwd` – Print the current working directory.  
 - `cd` – Change the directory.  
 - `ls` – List files and directories.  
@@ -44,22 +48,26 @@ Here are some of the **key commands** you should know to get started, along with
 - `rm` – Remove (delete) files or directories.  
 - `touch` – Create an empty file.  
 
-### File Content Viewing  
+### File Content Viewing
+
 - `cat` – Concatenate and display the contents of a file.  
 - `head` – Display the first few lines of a file.  
 - `tail` – Display the last few lines of a file.  
 - `less` – View file content one page at a time.  
 
-### File Identification and Metadata  
+### File Identification and Metadata
+
 - `file` – Determine the file type.  
 - `stat` – Display detailed metadata about a file.  
 - `which` – Show the location of an executable.  
 
-### Sorting and Filtering  
+### Sorting and Filtering
+
 - `sort` – Sort lines in a file.  
 - `uniq` – Remove duplicate lines from sorted input.  
 
-### Learning and History  
+### Learning and History
+
 - `man` – Display the manual for a command.  
 - `history` – Show a list of previously entered commands.  
 
@@ -73,6 +81,7 @@ One of the most important skills you can develop is knowing how to find the info
 2. **Leverage `--help`**: Most commands offer a `--help` option that provides a summary of how to use them. For example, `ls --help`.  
 3. **Use the `history` command**: Your shell remembers what you’ve typed. Use `history` to find and repeat previous commands without having to type them again.  
 
+---
 
 ## My Advice to New Users  
 

@@ -7,12 +7,16 @@ tags: [RSS]
 
 In the age of social media algorithms, personalised feeds, and endless scrolling, it might seem odd to rely on an older technology like RSS to stay informed. But for me, RSS remains one of the best ways to stay on top of my interests without the noise and distractions of modern platforms. Here's why I still use RSS after all these years, how it helps me cut through the clutter, and why I prefer it over social media algorithms.
 
+---
 
 ## What Is RSS?  
+
 RSS (Really Simple Syndication) is a standardised way for websites to share their content. It allows users to subscribe to feeds from their favourite websites, blogs, or news outlets and get updates delivered directly to an RSS reader. It’s like having your own curated newspaper, but one where you decide exactly what’s included.
 
+---
 
-## Why RSS Matters in the Age of Social Media  
+## Why RSS Matters in the Age of Social Media
+
 Social media platforms promise to keep us updated, but they come with significant downsides:  
 
 1. **Algorithms Control What You See**  
@@ -24,21 +28,25 @@ Social media platforms promise to keep us updated, but they come with significan
 3. **Privacy and Ownership**  
    With RSS, you don’t need to log into a platform or give away your data. It’s a decentralised system that respects your privacy and puts you in control of your information flow.  
 
+---
 
 ## How I Use RSS to Stay on Top of My Interests  
 
 I subscribe to feeds from blogs, news sites, and forums that align with my interests. The beauty of RSS is that I get every update from these sources without relying on algorithms to decide what’s “important.”  
 
 To take it a step further, I use **regex filters** to refine the content I see. Regex (regular expressions) is a powerful way to include or exclude specific topics from my feeds. For example:  
+
 - I can filter out articles containing keywords I don’t care about (e.g., “celebrity” or “rumour”).  
 - I can prioritise posts that include topics of interest (e.g., “Fedora” or “Linux commands”).  
 
 This filtering helps me focus on the content that truly matters while ignoring the rest. It’s like creating a personalised information pipeline that delivers exactly what I need.
 
+---
 
 ## Why I Use Inoreader  
 
 When it comes to RSS readers, **Inoreader** is my preferred choice. It offers an intuitive interface, powerful filtering tools, and features that go beyond basic RSS functionality. Here’s why I love it:  
+
 - **Regex Filtering**: Inoreader makes it easy to apply regex filters, allowing me to customise my feeds with precision.  
 - **Searchable Archives**: Inoreader keeps a full history of my subscriptions, so I can search for articles long after they’ve left the feed.  
 - **Cross-Platform Access**: I can access my feeds on any device, whether I’m on my desktop or mobile.  
@@ -46,6 +54,7 @@ When it comes to RSS readers, **Inoreader** is my preferred choice. It offers an
 
 Inoreader has become the backbone of how I consume information, offering a balance of power and simplicity that few other services can match. If you’re curious, you can check them out here: [Inoreader](https://www.inoreader.com).
 
+---
 
 ## The Power of Control  
 

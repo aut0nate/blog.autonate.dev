@@ -9,12 +9,14 @@ Prompt engineering is a crucial skill in today’s AI-driven world. At its core,
 
 Whether you’re writing prompts for work, learning, or creative projects, understanding the basics of prompt engineering can make your interactions with AI more productive and rewarding.  
 
+---
 
 ## What Is Prompt Engineering?  
 
-Prompt engineering is about creating instructions (or “prompts”) that guide an AI model to generate the response you want. Think of it as a conversation: the clearer your question or instruction, the better the response you are likely to get. 
+Prompt engineering is about creating instructions (or “prompts”) that guide an AI model to generate the response you want. Think of it as a conversation: the clearer your question or instruction, the better the response you are likely to get.
 
 A well-crafted prompt is:  
+
 1. **Clear**: Avoid ambiguity and be specific about your goal.  
 2. **Concise**: Keep it brief but detailed enough for the AI to understand.  
 3. **Focused**: Stay relevant and avoid unnecessary information.  
@@ -25,6 +27,7 @@ For instance, instead of asking a vague question like “What is AI?”, you cou
 
 This additional context and structure improve the response quality significantly.
 
+---
 
 ## The 6-Step Prompt Checklist  
 
@@ -50,6 +53,7 @@ When crafting a prompt, I follow a **6-step checklist** to ensure it’s effecti
 
 By following this structured approach, I ensure my prompts are optimised for clear, actionable, and tailored responses.  
 
+---
 
 ## Why Context and Clarity Are Key  
 
@@ -62,6 +66,7 @@ Context is one of the most important elements of a good prompt. The more relevan
 
 This level of detail makes the response specific and useful.  
 
+---
 
 ## Examples of Prompt Optimisation  
 
@@ -74,6 +79,7 @@ Let’s look at a poorly written prompt versus an optimised one:
 
 The optimised version is specific, focused, and sets clear expectations for the response.  
 
+---
 
 ## Resources to Learn More  
 
@@ -83,9 +89,10 @@ If you’re interested in becoming better at prompt engineering, here are some g
 2. **[The Rundown AI Blog](https://www.therundown.ai/)**: Stay updated with tips and insights on AI tools.  
 3. **[Reddit: r/PromptEngineering](https://www.reddit.com/r/PromptEngineering/)**: A community dedicated to crafting effective prompts.  
 
+---
 
 ## Final Thoughts  
 
 Prompt engineering is an essential skill for anyone looking to maximise the potential of AI tools. With the rapid advancements in AI technology, understanding how to communicate effectively with these systems is more important than ever.  
 
-By following the **6-step prompt checklist** and focusing on clarity, context, and examples, you can harness the power of AI to enhance your work, creativity, and problem-solving abilities. Start experimenting with your prompts today, and you’ll see just how transformative this skill can be.  
+By following the **6-step prompt checklist** and focusing on clarity, context, and examples, you can harness the power of AI to enhance your work, creativity, and problem-solving abilities. Start experimenting with your prompts today, and you’ll see just how transformative this skill can be.
