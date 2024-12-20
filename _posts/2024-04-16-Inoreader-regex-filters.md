@@ -27,7 +27,7 @@ Even with just 250 subscriptions, the utility of filters cannot be overstated. F
 
 Here are some examples of Regex filters I’ve implemented in Inoreader, demonstrating their practical value for readers looking to enhance their own workflows. For those new to Regex, let’s start with a simple example:
 
-### Simple Example: Filtering Articles with the Words "Black Friday"
+**Filtering Articles for Black Friday:**
 
 ```regex
 \bBlack Friday\b
@@ -37,7 +37,7 @@ Here are some examples of Regex filters I’ve implemented in Inoreader, demonst
 
 Now, let’s move to more detailed examples:
 
-### Paywall and Sponsored Content
+**Filtering Articles for Paywall and Sponsored Content:**
 
 ```regex
 /(\[Sponsor\]|\(Premium\)|\(Sponsor\)|\[Sponsored\])/gim
@@ -45,7 +45,7 @@ Now, let’s move to more detailed examples:
 
 **What It Does:** This filter excludes articles marked as sponsored or paywalled by flagging keywords like “[Sponsored]” or “(Premium).” This helps maintain a reading experience free of commercial distractions, allowing me to focus on unbiased and freely available content.
 
-### Adobe AI-Related Announcements
+**Filtering Articles for Adobe AI Announcements:**
 
 ```regex
 /(?=.*\bAdobe\b|\bAdobe’s\b|\bAdobe's\b)(?=.*\b(Event|Event:|Unveils|Announces|Announced|Reveals|Introduces|Launches|Showcases|Debuts|Presents|launch|launches|release|releases|released|updates|upgrades)\b)(?=.*\b(AI|LLM|Artificial Intelligence)\b)/gim
