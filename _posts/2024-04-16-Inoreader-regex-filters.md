@@ -27,7 +27,7 @@ Even with just 250 subscriptions, the utility of filters cannot be overstated. F
 
 Here are some examples of Regex filters I’ve implemented in Inoreader, demonstrating their practical value for readers looking to enhance their own workflows. For those new to Regex, let’s start with a simple example:
 
-## Simple Example: Filtering Articles with the Words "Black Friday"
+### Simple Example: Filtering Articles with the Words "Black Friday"
 
 ```regex
 \bBlack Friday\b
@@ -37,7 +37,7 @@ Here are some examples of Regex filters I’ve implemented in Inoreader, demonst
 
 Now, let’s move to more detailed examples:
 
-## Adobe AI-Related Announcements
+### Adobe AI-Related Announcements
 
 ```regex
 /(?=.*\bAdobe\b|\bAdobe’s\b|\bAdobe's\b)(?=.*\b(Event|Event:|Unveils|Announces|Announced|Reveals|Introduces|Launches|Showcases|Debuts|Presents|launch|launches|release|releases|released|updates|upgrades)\b)(?=.*\b(AI|LLM|Artificial Intelligence)\b)/gim
@@ -81,7 +81,7 @@ This method provides peace of mind and ensures my carefully crafted filters rema
 
 ---
 
-### Broader Benefits of Regex Skills
+## Broader Benefits of Regex Skills
 
 Regex filters in Inoreader go beyond productivity. Learning Regex has helped me automate workflows across various domains, significantly enhancing efficiency.&#x20;
 
