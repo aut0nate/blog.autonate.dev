@@ -37,6 +37,14 @@ Here are some examples of Regex filters I’ve implemented in Inoreader, demonst
 
 Now, let’s move to more detailed examples:
 
+### Paywall and Sponsored Content
+
+```regex
+/(\[Sponsor\]|\(Premium\)|\(Sponsor\)|\[Sponsored\])/gim
+```
+
+**What It Does:** This filter excludes articles marked as sponsored or paywalled by flagging keywords like “[Sponsored]” or “(Premium).” This helps maintain a reading experience free of commercial distractions, allowing me to focus on unbiased and freely available content.
+
 ### Adobe AI-Related Announcements
 
 ```regex
@@ -44,14 +52,6 @@ Now, let’s move to more detailed examples:
 ```
 
 **What It Does:** This filter surfaces articles specifically about Adobe-related events and updates that mention artificial intelligence or large language models (LLMs). It’s useful for tracking the latest advancements in Adobe’s AI initiatives.
-
-## Paywall and Sponsored Content
-
-```regex
-/(\[Sponsor\]|\(Premium\)|\(Sponsor\)|\[Sponsored\])/gim
-```
-
-**What It Does:** This filter excludes articles marked as sponsored or paywalled by flagging keywords like “[Sponsored]” or “(Premium).” This helps maintain a reading experience free of commercial distractions, allowing me to focus on unbiased and freely available content.
 
 ---
 
