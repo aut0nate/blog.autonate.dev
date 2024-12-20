@@ -3,6 +3,7 @@ title: "Harnessing the Power of Regex Filters in Inoreader"
 date: 2024-04-16 20:10:02
 categories: [RSS]
 tags: [RSS,Productivity]
+image_path: "/assets/images/blog/2024/2024-04-16-inoreader-regex-filters/"
 ---
 
 In a digital age dominated by information overload, staying focused on content that truly matters is an ongoing challenge. Enter **Inoreader**, my RSS reader of choice. It not only consolidates articles and updates from my favourite sources but also offers sophisticated filtering options, including **[Regex (Regular Expressions)](https://en.wikipedia.org/wiki/Regular_expression)**, to help streamline my feeds. This post delves into how I use Regex to filter out distractions and manage my subscriptions effectively.
@@ -65,7 +66,7 @@ Creating filters in Inoreader is straightforward but requires a Pro plan to acce
 4. **Click Create filter.**
 5. In the filter creation interface, **select Content filter** to start crafting your custom filter.
 
-![Inoreader Filters](/assets/images/blog/2024/2024-04-16-inoreader-regex-filters/inoreader-filters.png)
+![Inoreader Filters](/inoreader-filters.png)
 
 This process allows you to apply Regex expressions or other rules to refine the content in your feeds. The powerful customisation and control it provides make the Pro plan an invaluable tool for heavy users.
 
