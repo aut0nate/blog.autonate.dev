@@ -22,6 +22,12 @@ package-lock.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Misc
 _sass/dist
 assets/js/dist
+
