@@ -1,7 +1,7 @@
 # autonate.dev
+
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://autonate.dev)
 [![Static Badge](https://img.shields.io/badge/made_with-Jekyll-red)](https://jekyllrb.com/)
-
 
 Welcome to **autonate.dev**, my personal blog and technical documentation repository hosted on GitHub Pages. This site serves as a platform for sharing knowledge, showcasing projects, and documenting learning across various areas of technology.
 
@@ -24,4 +24,3 @@ autonate.dev is built using **Jekyll**, a static site generator known for its si
 - **Hosting**: The site is hosted on **GitHub Pages**, making it easy to maintain and update.
 
 If you're interested in building a similar site, you can start by forking the Chirpy Starter theme and deploying it with GitHub Pages.
-
