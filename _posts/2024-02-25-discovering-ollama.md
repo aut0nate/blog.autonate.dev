@@ -7,6 +7,7 @@ tags: [AI]
 
 I recently discovered **Ollama** ([ollama.com](https://ollama.com/)), a platform that allows you to run open-source Large Language Models (LLMs) directly on your local machine. As someone with an M1 Pro MacBook Pro, I was intrigued by the idea of leveraging my hardware to run advanced AI models privately. After exploring Ollama and experimenting with open-source models like **Llama**, **Mistral**, and **Phi**, I’ve been amazed at the speed and quality these models deliver—especially considering they’re running locally.  
 
+---
 
 ## Why Run LLMs Locally?  
 
@@ -14,6 +15,7 @@ Running LLMs locally comes with several benefits, but privacy is the standout ad
 
 Another reason for the growing interest in local LLMs is the **open-source movement**. The community’s drive to democratise AI ensures that powerful tools aren’t locked behind paywalls or controlled by a handful of corporations. Instead, they’re accessible to developers, researchers, and enthusiasts worldwide, encouraging innovation and collaboration.  
 
+---
 
 ## Hardware Requirements for Running Local LLMs  
 
@@ -24,6 +26,7 @@ Running LLMs locally at an acceptable speed will require high-performing GPUs an
 
 For those with the right hardware, the performance of these models can be incredible, and they are often optimised to maximise efficiency on consumer devices.
 
+---
 
 ## The Hugging Face Community  
 
@@ -31,22 +34,27 @@ I also discovered the [Hugging Face community](https://huggingface.co/) and foun
 
 From chatbots to image generation, Hugging Face has become a playground for experimentation and innovation. It’s exciting to see how people are collaborating globally to create powerful models that rival proprietary ones—and all while sharing their advancements openly for the benefit of everyone.  
 
+---
 
 ## My Experience with Llama, Mistral, and Phi  
 
 I’ve been experimenting with **Llama**, **Mistral**, and **Phi** models on my MacBook Pro, and the results have been impressive. The **speed** at which these models perform locally is remarkable, and while they aren’t quite on par with ChatGPT for general-purpose conversations, they excel in specific use cases.  
 
-For example:  
+For example:
+
 - **Llama**: A versatile model that handles a wide range of tasks well.  
 - **Mistral**: Particularly fast and efficient, making it a great choice for devices with limited resources.  
 - **Phi**: Another lightweight option with surprisingly robust capabilities.  
 
 It’s truly amazing how quickly the open-source community is iterating on these models, making them small and efficient enough to run locally without sacrificing too much performance.
 
+---
 
 ## Why Ollama Stands Out  
 
 Setting up these models locally might sound daunting, but **Ollama** makes it incredibly easy. The platform provides clear instructions for getting started, and the installation process is smooth and straightforward. Within minutes, I was up and running, testing different models and pushing the limits of my MacBook Pro.  
+
+---
 
 ## Final Thoughts  
 
