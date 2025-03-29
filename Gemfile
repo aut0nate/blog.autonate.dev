@@ -20,3 +20,5 @@ group :jekyll_plugins do
 end
 
 gem 'jekyll-minifier'
+
+gem 'uglifier', '>= 4.1.20'

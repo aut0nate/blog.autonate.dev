@@ -227,3 +227,6 @@ minifier:
   compress_css: true
   compress_html: true
   compress_js: false
+
+uglifier:
+  harmony: true
