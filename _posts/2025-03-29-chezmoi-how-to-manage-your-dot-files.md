@@ -64,11 +64,11 @@ One of Chezmoi’s most useful features is its powerful templating engine. You c
 For example, let’s say you want a slightly different `.zshrc` on macOS vs Linux:
 
 ```zsh
-{{% if eq .os "darwin" %}}
+{if eq .os "darwin"}
 echo "Running on macOS"
-{{% else if eq .os "linux" %}}
+{else if eq .os "linux"}
 echo "Running on Linux"
-{{% end %}}
+{end}
 ```
 
 You can also target OS-specific files by using suffixes in your source directory:
