@@ -3,7 +3,6 @@ title: "Getting Started with Chezmoi: Managing Dotfiles the Smart Way"
 date: 2025-03-29
 categories: [Configuration]
 tags: [Configuration]
-description: "Learn how I use Chezmoi to manage, customise, and back up my dotfiles across multiple systems."
 ---
 
 Managing configuration files across multiple systems can quickly become a mess. From terminal preferences to shell settings, we all have a finely-tuned setup that we rely on day-to-day. But how do you keep those settings consistent across machines? And how do you avoid the chaos of losing them after a reinstall?
