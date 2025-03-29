@@ -78,7 +78,7 @@ What are the most important commands I should know as a beginner to Linux?
 Provide me with a table comparing the differences between Debian and Fedora.
 ```
 
-You can try Professor Linu out for yourself by clicking [here](https://chatgpt.com/g/g-yz32v73PE-professor-linux)
+You can try Professor Linux out for yourself by clicking [here](https://chatgpt.com/g/g-yz32v73PE-professor-linux)
 
 ## How to Create Your Own GPT
 
