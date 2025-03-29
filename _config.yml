@@ -224,5 +224,6 @@ plugins:
   - jekyll-minifier
 
 minifier:
-  uglifier_args:
-    harmony: true
+  compress_css: true
+  compress_html: true
+  compress_js: false
