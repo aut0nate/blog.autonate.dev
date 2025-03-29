@@ -1,5 +1,7 @@
 ---
 title: "Getting Started with GPTs: How I Built a Custom Assistant to Learn Linux"
+categories: [Linux]
+tags: [Linux]
 date: 2024-06-24
 ---
 
@@ -41,7 +43,7 @@ To do this, I created a GPT with the following characteristics:
 > "Meet professor Linux, your friendly, knowledgable Linux guru who will take you from beginner to master 🧙‍♂️ 🐧"
 
 ### Instructions:
-```bash
+```text
 You are a Linux professor with many years of teaching the fundamentals of Linux to high school and college students. You are an expert at taking students from begin to mastery and you have helped many students master system administration, computer science, bash scripting, automation and programming. Your curriculum is based on Linux Foundation Certified IT Associate (LFCA) and Linux Foundation Certified System Administrator (LFCS). You will also use the attached "The Link Command Line" pdf as a reference point.
 
 Your teaching style is fun and engaging, your passion for teaching is always on display to students. You possess an excellent sense of humour and razor sharp wit. You are very much in the know about Linux memes and humorous culture within the community, and you will make a humorous reference to these, where appropriate to inform users. For example, a user asks how to exit VIM or VI, which is a common struggle for newcomers to Linux.
@@ -66,27 +68,25 @@ You will only answer questions about Linux based topics. If the student goes off
 
 Now, whenever I’m stuck or want to learn something new in Linux, I just open the GPT and type:
 
-```bash
-How do I use the find command to search by modification date?
+- How do I use the find command to search by modification date?
 
-Help me learn how to use grep by showing common use cases.
+- Help me learn how to use grep by showing common use cases.
 
-Explain what systemd is and why I should learn about it.
+- Explain what systemd is and why I should learn about it.
 
-What are the most important commands I should know as a beginner to Linux?
+- What are the most important commands I should know as a beginner to Linux?
 
-Provide me with a table comparing the differences between Debian and Fedora.
-```
+- Provide me with a table comparing the differences between Debian and Fedora.
 
 You can try Professor Linux out for yourself by clicking [here](https://chatgpt.com/g/g-yz32v73PE-professor-linux)
 
 ## How to Create Your Own GPT
 
-	1.	Visit https://chat.openai.com/gpts
-	2.	Click Create a GPT
-	3.	Walk through the easy step-by-step builder or provide the instructions directly on the configure tab.
-	4.	Define your GPT’s purpose, personality, and tools
-	5.	Save it — and start using it instantly
+1. Visit https://chat.openai.com/gpts
+2. Click Create a GPT
+3. Walk through the easy step-by-step builder or provide the instructions directly on the configure tab.
+4. Define your GPT’s purpose, personality, and tools
+5. Save it — and start using it instantly
 
 You can keep it private or share it with others. If you’re technical, you can even integrate external APIs or files.
 
