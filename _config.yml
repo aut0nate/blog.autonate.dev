@@ -220,13 +220,13 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins:
-  - jekyll-minifier
+# plugins:
+# - jekyll-minifier
 
-minifier:
-  compress_css: true
-  compress_html: true
-  compress_js: false
+# minifier:
+# compress_css: true
+# compress_html: true
+# compress_js: false
 
 uglifier:
   harmony: true
