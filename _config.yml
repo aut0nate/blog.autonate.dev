@@ -14,7 +14,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: blog.autonate.dev # the main title
+title: autonate # the main title
 
 tagline: 👋🏻 Hi, I’m Nathan, a technical professional from the UK with an interest in AI, Automation, System Administration, Cloud Computing, and DevOps # it will display as the subtitle
 
