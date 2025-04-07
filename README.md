@@ -1,4 +1,4 @@
-# autonate.dev
+# blog.autonate.dev
 
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://autonate.dev)
 [![Static Badge](https://img.shields.io/badge/made_with-Jekyll-red)](https://jekyllrb.com/)
