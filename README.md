@@ -7,7 +7,7 @@ Welcome to **blog.autonate.dev**, my personal blog and technical documentation r
 
 ## About the Blog
 
-blog.utonate.dev is designed to be a resource for technology enthusiasts, IT professionals, and anyone interested in learning more about:
+blog.autonate.dev is designed to be a resource for technology enthusiasts, IT professionals, and anyone interested in learning more about:
 
 - **Linux System Administration** – Practical tips, guides, and tutorials for managing Linux systems, with a focus on Fedora and Ubuntu.
 - **Cloud Computing & DevOps** – Exploring cloud services, automation, containerisation, and tools like Docker and Kubernetes.
