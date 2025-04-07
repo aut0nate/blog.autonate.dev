@@ -3,11 +3,11 @@
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://autonate.dev)
 [![Static Badge](https://img.shields.io/badge/made_with-Jekyll-red)](https://jekyllrb.com/)
 
-Welcome to **autonate.dev**, my personal blog and technical documentation repository hosted on GitHub Pages. This site serves as a platform for sharing knowledge, showcasing projects, and documenting learning across various areas of technology.
+Welcome to **blog.autonate.dev**, my personal blog and technical documentation repository hosted on GitHub Pages. This site serves as a platform for sharing knowledge, showcasing projects, and documenting learning across various areas of technology.
 
 ## About the Blog
 
-Autonate.dev is designed to be a resource for technology enthusiasts, IT professionals, and anyone interested in learning more about:
+blog.utonate.dev is designed to be a resource for technology enthusiasts, IT professionals, and anyone interested in learning more about:
 
 - **Linux System Administration** – Practical tips, guides, and tutorials for managing Linux systems, with a focus on Fedora and Ubuntu.
 - **Cloud Computing & DevOps** – Exploring cloud services, automation, containerisation, and tools like Docker and Kubernetes.
