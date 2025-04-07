@@ -18,7 +18,7 @@ blog.autonate.dev is designed to be a resource for technology enthusiasts, IT pr
 
 ## Site Architecture
 
-autonate.dev is built using **Jekyll**, a static site generator known for its simplicity and speed. The blog uses the **Chirpy theme**, a clean and modern Jekyll theme designed for personal blogs and documentation sites.
+blog.autonate.dev is built using **Jekyll**, a static site generator known for its simplicity and speed. The blog uses the **Chirpy theme**, a clean and modern Jekyll theme designed for personal blogs and documentation sites.
 
 - **Theme**: [Chirpy Starter](https://github.com/cotes2020/chirpy-starter), forked from [cotes2020/chirpy](https://github.com/cotes2020/chirpy)
 - **Hosting**: The site is hosted on **GitHub Pages**, making it easy to maintain and update.
