@@ -1,21 +1,20 @@
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   pull_request:
-    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-24.04-x64
     steps:
-      - name: Set up Ruby
+      - name: Install Ruby
         run: |
+          sudo apt-get update
+          sudo apt-get install -y curl git
           git clone https://github.com/rbenv/ruby-build.git ~/.ruby-build
-          ~/.ruby-build/install.sh
-          rbenv install 3.1.0
-          rbenv global 3.1.0
-          ruby -v
-      - name: Install Bundler
-        run: gem install bundler
-      - name: Install dependencies
-        run: bundle install
+          sudo ~/.ruby-build/install.sh
+          ruby-build 3.1.4 $RUNNER_TOOL_CACHE/ruby-3.1.4
+          echo 'export PATH="$RUNNER_TOOL_CACHE/ruby-3.1.4/bin:$PATH"' >> $GITHUB_ENV
+      - name: Verify Ruby Installation
+        run: ruby --version
