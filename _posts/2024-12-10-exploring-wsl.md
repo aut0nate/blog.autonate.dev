@@ -204,7 +204,7 @@ In Linux there are many shells to choose from such as bash, zsh and fish. I reco
 
 Here is how my WSL shell currently looks:
 
-![WSL Shell](..\assets\images\blog\2024\2024-12-10-exploring-wsl\wsl-zsh.jpg)
+![WSL Shell](../assets/images/blog/2024/2024-12-10-exploring-wsl/wsl-zsh.jpg)
 
 I keep all my configuration files—such as `.zshrc`, `.tmux.conf`, and shell aliases—[under source control](https://github.com/aut0nate/dotfiles). This approach means that no matter what system I’m using—whether it’s WSL on Windows, a macOS terminal, or a Linux desktop—I can quickly sync my settings and enjoy a consistent, familiar shell environment everywhere. It’s a simple trick that saves time and ensures I feel right at home, no matter which platform I’m working on.
 
