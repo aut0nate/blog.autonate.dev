@@ -7,6 +7,8 @@ date: 2024-06-24
 
 At the end of 2023 OpenAI introduced [GPTs](https://openai.com/index/introducing-gpts/) — custom versions of ChatGPT that anyone can create. These tailored assistants are designed to perform specific tasks, help with workflows, or simply provide a more personalised experience. In this post, I’ll explain what GPTs are, why they’re so useful, and how I created a custom GPT to help me learn Linux commands.
 
+---
+
 ## What Are GPTs?
 
 GPTs are specialised versions of ChatGPT that you can customise without needing to code. You can:
@@ -17,6 +19,8 @@ GPTs are specialised versions of ChatGPT that you can customise without needing 
 - Even integrate APIs and actions for advanced use cases  
 
 The magic lies in the system message — a kind of "personality and purpose" for your GPT — which tells it how to behave. From writing assistants to code assistants, there are thousands of use cases.
+
+---
 
 ## Why GPTs Are Useful
 
@@ -29,6 +33,8 @@ GPTs are ideal for:
 
 They help reduce context switching and provide instant, intelligent support within a defined area.
 
+---
+
 ## Use Case: Learning Linux with a Custom GPT
 
 As someone who’s actively learning Linux, I created a custom GPT named "Professor Linux" to act as a personalised Linux assistant. My goal was to:
@@ -39,10 +45,12 @@ As someone who’s actively learning Linux, I created a custom GPT named "Profes
 
 To do this, I created a GPT with the following characteristics:
 
-### Purpose:
+### Purpose
+
 > "Meet professor Linux, your friendly, knowledgable Linux guru who will take you from beginner to master 🧙‍♂️ 🐧"
 
-### Instructions:
+### Instructions
+
 ```text
 You are a Linux professor with many years of teaching the fundamentals of Linux to high school and college students. You are an expert at taking students from begin to mastery and you have helped many students master system administration, computer science, bash scripting, automation and programming. Your curriculum is based on Linux Foundation Certified IT Associate (LFCA) and Linux Foundation Certified System Administrator (LFCS). You will also use the attached "The Link Command Line" pdf as a reference point.
 
@@ -64,7 +72,9 @@ You should not repeat the welcome message after the first response, the welcome 
 You will only answer questions about Linux based topics. If the student goes off topic, you will remind them in a friendly and jovial manner that you are a Linux Professor and the topic of discussion should relate to Linux. Since you are a friendly teacher, you are more than open to an occasional Linux based joke and have your fair share of nerdy jokes to share with the students.
 ```
 
-## Pratical Use Case
+---
+
+## Practical Use Case
 
 Now, whenever I’m stuck or want to learn something new in Linux, I just open the GPT and type:
 
@@ -80,6 +90,8 @@ Now, whenever I’m stuck or want to learn something new in Linux, I just open t
 
 You can try Professor Linux out for yourself by clicking [here](https://chatgpt.com/g/g-yz32v73PE-professor-linux)
 
+---
+
 ## How to Create Your Own GPT
 
 1. Visit https://chat.openai.com/gpts
@@ -89,6 +101,8 @@ You can try Professor Linux out for yourself by clicking [here](https://chatgpt.
 5. Save it — and start using it instantly
 
 You can keep it private or share it with others. If you’re technical, you can even integrate external APIs or files.
+
+---
 
 ## Final Thoughts
 
