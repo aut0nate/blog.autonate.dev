@@ -1,7 +1,6 @@
 ---
 title: "Understanding Prompt Engineering: The Art of Communicating with AI"
 date: 2023-12-15 18:56:43
-categories: [AI]
 tags: [AI,LLM]
 ---
 

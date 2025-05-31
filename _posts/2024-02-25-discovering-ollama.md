@@ -1,7 +1,6 @@
 ---
 title: "Discovering Ollama: Running Open Source LLMs Locally"
 date: 2024-02-25 18:14:23
-categories: [AI]
 tags: [AI,LLM]
 ---
 

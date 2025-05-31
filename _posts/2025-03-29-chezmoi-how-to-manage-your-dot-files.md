@@ -1,7 +1,6 @@
 ---
 title: "Getting Started with Chezmoi: Managing Dotfiles the Smart Way"
 date: 2025-03-29
-categories: [Configuration]
 tags: [Configuration,Command Line]
 ---
 

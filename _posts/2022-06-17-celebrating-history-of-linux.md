@@ -1,7 +1,6 @@
 ---
 title: "A Celebration of Linux: Its History, Influence, and Why It Matters"
 date: 2022-06-17 10:01:07
-categories: [Linux]
 tags: [Linux,Command Line]
 ---
 

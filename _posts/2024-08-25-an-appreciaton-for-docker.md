@@ -1,6 +1,5 @@
 ---
 title: "An Appreciation for Docker"
-categories: [Docker]
 tags: [Docker,Containers,Command Line]
 date: 2024-08-25
 ---

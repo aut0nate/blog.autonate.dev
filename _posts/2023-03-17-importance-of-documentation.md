@@ -1,7 +1,6 @@
 ---
 title: "Why Documentation Is My Second Brain"
 date: 2023-03-17 14:54:12
-categories: [Productivity]
 tags: [Productivity]
 ---
 

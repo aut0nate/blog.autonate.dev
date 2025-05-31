@@ -1,7 +1,6 @@
 ---
 title: "Why You Shouldn’t Fear the Command Line: Embrace Its Power"
 date: 2022-09-29 21:34:17
-categories: [Linux]
 tags: [Linux,Command Line]
 ---
 

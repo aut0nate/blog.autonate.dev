@@ -1,7 +1,6 @@
 ---
 title: "Why I Enjoy Using Linux"
 date: 2022-04-05 19:34:25
-categories: [Linux]
 tags: [Linux,Command Line]
 ---
 

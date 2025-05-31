@@ -1,7 +1,6 @@
 ---
 title: "An Introduction to Apple Shortcuts"
 date: 2023-06-22 23:22:38
-categories: [iOS]
 tags: [Apple,iOS,Shortcuts]
 ---
 

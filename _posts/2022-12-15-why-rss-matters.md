@@ -1,7 +1,6 @@
 ---
 title: "Why I Still Use RSS to Stay Informed"
 date: 2022-09-29 21:34:17
-categories: [RSS]
 tags: [RSS,Productivity]
 ---
 

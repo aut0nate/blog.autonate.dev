@@ -1,6 +1,5 @@
 ---
 title: "Understanding APIs: A Beginner-Friendly Guide"
-categories: [API]
 tags: [API]
 date: 2024-10-19
 ---

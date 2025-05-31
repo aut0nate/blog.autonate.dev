@@ -1,7 +1,6 @@
 ---
 title: "The AI Explosion: How It’s Changing the Way We Work and Live"
 date: 2023-06-22 23:22:38
-categories: [AI]
 tags: [AI,LLM]
 ---
 
