@@ -1,0 +1,13 @@
+<span>
+  <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    {{ page.date | date: site.date_format }}
+  </time>
+</span>
+
+{%- if page.author -%}
+  • <span>{{ page.author }}</span>
+{%- endif -%}
+
+{%- if page.read_time -%}
+  • <span>{{ page.read_time }}</span>
+{%- endif -%}
