@@ -11,3 +11,8 @@
 {%- if page.read_time -%}
   • <span>{{ page.read_time }}</span>
 {%- endif -%}
+
+{%- if page.categories -%}
+  • <span class="categories">{{ page.categories | join: ", " }}</span>
+{%- endif -%}
+
