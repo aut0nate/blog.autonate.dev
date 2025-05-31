@@ -1,13 +1,11 @@
 ---
 title: "Getting Started with GPTs: How I Built a Custom Assistant to Learn Linux"
-categories: [Linux]
-tags: [Linux]
+categories: [AI,ChatGPT,Linux]
+tags: [AI,ChatGPT,Linux]
 date: 2024-06-24
 ---
 
 At the end of 2023 OpenAI introduced [GPTs](https://openai.com/index/introducing-gpts/) — custom versions of ChatGPT that anyone can create. These tailored assistants are designed to perform specific tasks, help with workflows, or simply provide a more personalised experience. In this post, I’ll explain what GPTs are, why they’re so useful, and how I created a custom GPT to help me learn Linux commands.
-
----
 
 ## What Are GPTs?
 
@@ -20,8 +18,6 @@ GPTs are specialised versions of ChatGPT that you can customise without needing 
 
 The magic lies in the system message — a kind of "personality and purpose" for your GPT — which tells it how to behave. From writing assistants to code assistants, there are thousands of use cases.
 
----
-
 ## Why GPTs Are Useful
 
 GPTs are ideal for:
@@ -33,14 +29,12 @@ GPTs are ideal for:
 
 They help reduce context switching and provide instant, intelligent support within a defined area.
 
----
-
 ## Use Case: Learning Linux with a Custom GPT
 
 As someone who’s actively learning Linux, I created a custom GPT named "Professor Linux" to act as a personalised Linux assistant. My goal was to:
 
 - Gain a deeper understanding of Linux
-- Learn commands and options 
+- Learn commands and options
 - Provide structured learning plans
 
 To do this, I created a GPT with the following characteristics:
@@ -72,8 +66,6 @@ You should not repeat the welcome message after the first response, the welcome 
 You will only answer questions about Linux based topics. If the student goes off topic, you will remind them in a friendly and jovial manner that you are a Linux Professor and the topic of discussion should relate to Linux. Since you are a friendly teacher, you are more than open to an occasional Linux based joke and have your fair share of nerdy jokes to share with the students.
 ```
 
----
-
 ## Practical Use Case
 
 Now, whenever I’m stuck or want to learn something new in Linux, I just open the GPT and type:
@@ -88,21 +80,17 @@ Now, whenever I’m stuck or want to learn something new in Linux, I just open t
 
 - Provide me with a table comparing the differences between Debian and Fedora.
 
-You can try Professor Linux out for yourself by clicking [here](https://chatgpt.com/g/g-yz32v73PE-professor-linux)
-
----
+You can try Professor Linux out for yourself by clicking [here.](https://chatgpt.com/g/g-yz32v73PE-professor-linux)
 
 ## How to Create Your Own GPT
 
-1. Visit https://chat.openai.com/gpts
+1. Visit <https://chat.openai.com/gpts>
 2. Click Create a GPT
 3. Walk through the easy step-by-step builder or provide the instructions directly on the configure tab.
 4. Define your GPT’s purpose, personality, and tools
 5. Save it — and start using it instantly
 
 You can keep it private or share it with others. If you’re technical, you can even integrate external APIs or files.
-
----
 
 ## Final Thoughts
 
