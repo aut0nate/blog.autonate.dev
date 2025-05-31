@@ -1,9 +1,5 @@
 ---
 title: "Getting Started with GPTs: How I Built a Custom Assistant to Learn Linux"
-categories:
-  - AI
-  - ChatGPT
-  - Linux
 tags: [AI,LLM,ChatGPT,Linux]
 date: 2024-06-24
 ---
