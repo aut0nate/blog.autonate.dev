@@ -1,5 +1,9 @@
 #  The contact options.  
-  
+
+- type: website  
+  icon: 'fa-solid fa-globe'  
+  url: 'https://nathandarker.it' #Fill with your website
+
 - type: github  
   icon: "fab fa-github"  
   
