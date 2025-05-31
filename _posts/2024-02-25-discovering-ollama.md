@@ -2,20 +2,16 @@
 title: "Discovering Ollama: Running Open Source LLMs Locally"
 date: 2024-02-25 18:14:23
 categories: [AI]
-tags: [AI]
+tags: [AI,LLM]
 ---
 
 I recently discovered **Ollama** ([ollama.com](https://ollama.com/)), a platform that allows you to run open-source Large Language Models (LLMs) directly on your local machine. As someone with an M1 Pro MacBook Pro, I was intrigued by the idea of leveraging my hardware to run advanced AI models privately. After exploring Ollama and experimenting with open-source models like **Llama**, **Mistral**, and **Phi**, I’ve been amazed at the speed and quality these models deliver—especially considering they’re running locally.  
-
----
 
 ## Why Run LLMs Locally?  
 
 Running LLMs locally comes with several benefits, but privacy is the standout advantage. When you use cloud-based AI models, your queries and data are processed on remote servers, raising concerns about data security and privacy. With locally hosted models, everything stays on your device, giving you full control over your inputs and outputs.  
 
 Another reason for the growing interest in local LLMs is the **open-source movement**. The community’s drive to democratise AI ensures that powerful tools aren’t locked behind paywalls or controlled by a handful of corporations. Instead, they’re accessible to developers, researchers, and enthusiasts worldwide, encouraging innovation and collaboration.  
-
----
 
 ## Hardware Requirements for Running Local LLMs  
 
@@ -26,15 +22,11 @@ Running LLMs locally at an acceptable speed will require high-performing GPUs an
 
 For those with the right hardware, the performance of these models can be incredible, and they are often optimised to maximise efficiency on consumer devices.
 
----
-
 ## The Hugging Face Community  
 
 I also discovered the [Hugging Face community](https://huggingface.co/) and found that they play a huge part in the open-source AI revolution. It’s a hub where developers collaborate on models, datasets, and tools to advance open-source AI. The Hugging Face community has made it easier than ever to discover, fine-tune, and deploy models for various use cases.  
 
 From chatbots to image generation, Hugging Face has become a playground for experimentation and innovation. It’s exciting to see how people are collaborating globally to create powerful models that rival proprietary ones—and all while sharing their advancements openly for the benefit of everyone.  
-
----
 
 ## My Experience with Llama, Mistral, and Phi  
 
@@ -48,13 +40,9 @@ For example:
 
 It’s truly amazing how quickly the open-source community is iterating on these models, making them small and efficient enough to run locally without sacrificing too much performance.
 
----
-
 ## Why Ollama Stands Out  
 
 Setting up these models locally might sound daunting, but **Ollama** makes it incredibly easy. The platform provides clear instructions for getting started, and the installation process is smooth and straightforward. Within minutes, I was up and running, testing different models and pushing the limits of my MacBook Pro.  
-
----
 
 ## Final Thoughts  
 

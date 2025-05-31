@@ -2,13 +2,10 @@
 title: "Harnessing the Power of Regex Filters in Inoreader"
 date: 2024-04-16 20:10:02
 categories: [RSS]
-tags: [RSS,Productivity]
-image_path: "/assets/images/blog/2024/2024-04-16-inoreader-regex-filters/"
+tags: [RSS,Regex,Productivity]
 ---
 
 In a digital age dominated by information overload, staying focused on content that truly matters is an ongoing challenge. Enter **Inoreader**, my RSS reader of choice. It not only consolidates articles and updates from my favourite sources but also offers sophisticated filtering options, including **[Regex (Regular Expressions)](https://en.wikipedia.org/wiki/Regular_expression)**, to help streamline my feeds. This post delves into how I use Regex to filter out distractions and manage my subscriptions effectively.
-
----
 
 ## Staying Informed with Regex Filters
 
@@ -21,8 +18,6 @@ Here are the benefits I gain from using Regex filters in Inoreader:
 3. **Develop Regex proficiency:** Using Regex has enhanced my technical skills, allowing me to apply Regex in other areas of my workflow and problem-solving tasks.
 
 Even with just 250 subscriptions, the utility of filters cannot be overstated. For those with significantly more subscriptions, filters become an essential tool for maintaining focus and sanity. The precise and customisable nature of Regex filters ensures that I remain in control of my information flow.
-
----
 
 ## Examples of Regex Filters I Use
 
@@ -54,8 +49,6 @@ Now, let’s move to more detailed examples:
 
 **What It Does:** This filter surfaces articles specifically about Adobe-related events and updates that mention artificial intelligence or large language models (LLMs). It’s useful for tracking the latest advancements in Adobe’s AI initiatives.
 
----
-
 ## Creating Filters in Inoreader
 
 Creating filters in Inoreader is straightforward but requires a Pro plan to access this feature. The Pro plan not only unlocks advanced filtering options but also includes benefits such as enhanced automation tools, monitoring feeds, and faster feed updates. For users who want a high level of control and efficiency in managing their content, upgrading to Pro is a worthwhile investment. Here’s how to create a filter:
@@ -70,8 +63,6 @@ Creating filters in Inoreader is straightforward but requires a Pro plan to acce
 
 This process allows you to apply Regex expressions or other rules to refine the content in your feeds. The powerful customisation and control it provides make the Pro plan an invaluable tool for heavy users.
 
----
-
 ## How I Manage My Regex Filters
 
 While Inoreader’s filtering capabilities are powerful, they come with one limitation: there’s no built-in method for backing up Regex filters. For heavy users, filters represent hours of work—understanding Regex syntax, testing filters, and refining them over time. Losing them would mean starting from scratch, which can be frustrating. To address this, I’ve developed a straightforward system for managing my filters:
@@ -81,8 +72,6 @@ While Inoreader’s filtering capabilities are powerful, they come with one limi
 - **Portability:** Should I migrate to another RSS reader or tool, my filters are ready to be deployed with minimal effort.
 
 This method provides peace of mind and ensures my carefully crafted filters remain accessible and secure.&#x20;
-
----
 
 ## Broader Benefits of Regex Skills
 
@@ -95,8 +84,6 @@ Regex also unlocks potential in areas like data analysis, scripting, and search 
 - **Search enhancement:** Creating advanced search queries for coding projects.
 
 For a practical guide on Regex, check out this [Regex tutorial](https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/).
-
----
 
 ## Final Thoughts
 

@@ -4,7 +4,7 @@ categories:
   - AI
   - ChatGPT
   - Linux
-tags: [AI,ChatGPT,Linux]
+tags: [AI,LLM,ChatGPT,Linux]
 date: 2024-06-24
 ---
 

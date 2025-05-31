@@ -2,14 +2,12 @@
 title: "Understanding Prompt Engineering: The Art of Communicating with AI"
 date: 2023-12-15 18:56:43
 categories: [AI]
-tags: [AI]
+tags: [AI,LLM]
 ---
 
 Prompt engineering is a crucial skill in today’s AI-driven world. At its core, it’s the process of designing and optimising prompts to interact effectively with natural language processing (NLP) models like ChatGPT. Crafting a good prompt is an art and a science, and when done well, it can drastically improve the quality of responses from AI systems.  
 
 Whether you’re writing prompts for work, learning, or creative projects, understanding the basics of prompt engineering can make your interactions with AI more productive and rewarding.  
-
----
 
 ## What Is Prompt Engineering?  
 
@@ -26,8 +24,6 @@ For instance, instead of asking a vague question like “What is AI?”, you cou
 > “Explain artificial intelligence in simple terms, focusing on its key applications in everyday life, like virtual assistants and automation.”
 
 This additional context and structure improve the response quality significantly.
-
----
 
 ## The 6-Step Prompt Checklist  
 
@@ -53,8 +49,6 @@ When crafting a prompt, I follow a **6-step checklist** to ensure it’s effecti
 
 By following this structured approach, I ensure my prompts are optimised for clear, actionable, and tailored responses.  
 
----
-
 ## Why Context and Clarity Are Key  
 
 Context is one of the most important elements of a good prompt. The more relevant information you provide, the better the AI understands your request. For example:  
@@ -65,8 +59,6 @@ Context is one of the most important elements of a good prompt. The more relevan
   > “Write a professional email inviting colleagues to a team-building event, mentioning the date, location, and agenda.”
 
 This level of detail makes the response specific and useful.  
-
----
 
 ## Examples of Prompt Optimisation  
 
@@ -79,8 +71,6 @@ Let’s look at a poorly written prompt versus an optimised one:
 
 The optimised version is specific, focused, and sets clear expectations for the response.  
 
----
-
 ## Resources to Learn More  
 
 If you’re interested in becoming better at prompt engineering, here are some great resources:  
@@ -88,8 +78,6 @@ If you’re interested in becoming better at prompt engineering, here are some g
 1. **[OpenAI’s ChatGPT User Guide](https://openai.com/)**: Learn directly from the creators of ChatGPT.  
 2. **[The Rundown AI Blog](https://www.therundown.ai/)**: Stay updated with tips and insights on AI tools.  
 3. **[Reddit: r/PromptEngineering](https://www.reddit.com/r/PromptEngineering/)**: A community dedicated to crafting effective prompts.  
-
----
 
 ## Final Thoughts  
 

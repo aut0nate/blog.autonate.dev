@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Windows Subsystem for Linux (WSL)"
 categories: [Linux]
-tags: [Linux, Windows]
+tags: [Linux,Windows,Command Line]
 date: 2024-12-10
 ---
 
