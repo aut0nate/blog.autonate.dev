@@ -13,7 +13,7 @@ That’s where a tool like [Chezmoi](https://www.chezmoi.io/) comes in.
 
 Chezmoi is a powerful dotfile manager designed to track, version, and securely deploy your configuration files across multiple operating systems. It helps you manage configuration files such as `~/.zshrc`, `~/.gitconfig`, `~/.config/` and more — all with a simple Git workflow.
 
-Unlike traditional symlink managers like GNU Stow, Chezmoi works by maintaining a source state in a Git repository, which it applies to your home directory. This means you can track your dotfiles like code, safely test changes, and even add logic for different operating systems or hosts.
+Unlike traditional symlink managers like GNU Stow, Chezmoi works by maintaining a source state in a Git repository, which it applies to your home directory. This means you can track your configuration files, safely test changes, and even add logic for different operating systems or hosts.
 
 ## Getting Started
 
@@ -33,14 +33,14 @@ sudo apt install chezmoi
 
 Windows:
 
-```bash
+```powershell
 winget install twpayne.chezmoi
 ```
 
 Then initialise your dotfiles repository:
 
 ```bash
-chezmoi init --apply aut0nate
+chezmoi init --apply <repo>
 ```
 
 This command clones your dotfiles repository (e.g. [https://github.com/aut0nate/dotfiles](https://github.com/aut0nate/dotfiles)) and immediately applies the configuration to your home directory. You can also start fresh by running:
@@ -53,7 +53,7 @@ And then begin adding files:
 
 ```bash
 chezmoi add ~/.zshrc
-chezmoi add ~/.config/nvim/init.vim
+chezmoi add ~/.tmux.conf
 ```
 
 ## The Power of Templates
@@ -91,7 +91,7 @@ This allows you to have one unified repository that works intelligently across e
 
 ## Why Backing Up Config Files Matters
 
-Your dotfiles represent hours — if not years — of customisation. Losing them can feel like losing a part of your workflow.
+Your configuration files represent hours — if not years — of customisation. Losing them can feel like losing a part of your workflow.
 
 By using Chezmoi with Git, you:
 
@@ -100,14 +100,14 @@ By using Chezmoi with Git, you:
 - **Easily restore your environment** after a system wipe or when setting up a new machine
 - **Reduce time spent reconfiguring** new environments
 
-Your dotfiles essentially become portable, versioned, and secure — which is especially useful if you work across macOS, Linux, or WSL environments.
+Your dotfiles essentially become portable, versioned, and secure — which is especially useful if you work across macOS, Linux, or WSL environments like I do.
 
 ## My Dotfiles
 
-If you're curious, you can check out [my dotfiles on GitHub](https://github.com/aut0nate/dotfiles). Feel free to fork, clone, or use it for inspiration.
+If you're curious, you can check out [my dotfiles on GitHub](https://github.com/aut0nate/dotfiles). Feel free to use it for inspiration in your own configuration file management system.
 
 ## Final Thoughts
 
-Chezmoi has quickly become one of my essential tools. It removes the friction of managing dotfiles and adds the confidence of knowing my setup is always a `chezmoi init` away.
+Chezmoi has quickly become one of my essential tools. It removes the friction of managing configuration files and I can rest easy knowing that everything is under source control and available to me whenever I need it. For example I recently received a new laptop at work, and with a simple `chezmoi init` my configuration files were available to me, without the hassle of setting everything up from scratch.
 
-Whether you're just getting started or looking to level up your dotfile game, Chezmoi is a great place to begin.
+If you are looking for a tool to help you manage your configuration files across multiple platforms, Chezmoi is a great place to begin.
