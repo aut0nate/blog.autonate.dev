@@ -138,6 +138,6 @@ docker exec -it <container_id> bash
 3. **Portability** – Moving to a new server is as easy as copying a compose file and running `docker compose up -d`.
 4. **Community** – If you can imagine a service, there’s probably an official or community image ready to go on [Docker Hub](https://hub.docker.com/).
 
-## Conclusion
+## Final Thoughts
 
 I’m really pleased I invested the time to learn about containerisation; it has enhanced my tech skills and complimented my command‑line knowledge. Docker has helped me build a solid cloud lab which hosts a variety of services, and I’m constantly discovering and spinning up new ones. If you’re on the fence, thinking containerisation is only for hardcore developers, give it a try: start small and learn at your own pace. The payoff is well worth it, and it’s a brilliant tool to have in your toolbox.
