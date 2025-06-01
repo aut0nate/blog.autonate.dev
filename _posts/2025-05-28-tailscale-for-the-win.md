@@ -1,5 +1,5 @@
 ---
-title: "Retrieving Documents from My Homelab on a Train with Tailscale"
+title: "Tailscale Saves the Day!"
 date: 2025-05-28
 tags: [Tailscale,Homelab]
 ---
