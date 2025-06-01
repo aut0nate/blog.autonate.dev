@@ -1,7 +1,7 @@
 ---
 title: "How Tailscale Transformed Secure Access to My Homelab"
 date: 2025-01-12
-tags: [tailscale,homelab,networking,security]
+tags: [Tailscale,Homelab,Networking]
 ---
 
 Connecting to services in a homelab can be a headache, especially when you want strong security without the hassle of port forwarding, firewall rules, or wrestling with certificates. Last year, I discovered [Tailscale](https://tailscale.com/) and introduced it to my [homelab](https://blog.autonate.dev/posts/my-homelab-journey/). Tailscale has become my solution for secure, reliable, and zero-fuss access to certain services in my homelab—which I do not want to expose via the public internet. In this post, I’ll walk through what makes Tailscale so effective, how to set it up, and the best practices I’ve picked up along the way.
