@@ -28,11 +28,13 @@ For the hypervisor, I opted for Proxmox VE—a powerful, open-source platform th
 Compared to the racks and clusters you’ll see online, my setup is modest, but it’s more than enough for my needs right now. Here’s what I’m running:
 
 **Virtual Machines:**
+
 - 2 x Ubuntu Server
 - 1 x Fedora Server
 - 1 x Windows 11
 
 **Containers:**
+
 - [Nginx Proxy Manager](https://nginxproxymanager.com)
 - [Portainer](https://www.portainer.io)
 - [Authentik](https://goauthentik.io)
@@ -52,10 +54,12 @@ The biggest lesson so far? Just get started. There’s no need for enterprise ha
 
 If you’re looking to expand your knowledge or stay up to date with the homelab and self-hosting world, here are some resources I’ve found especially helpful:
 
-**Newsletter**
+**Newsletter:**
+
 - [Selfh.st](https://selfh.st) – A great newsletter for discovering the latest news, tools, and updates in the self-hosting community.
 
-**YouTube Channels**
+**YouTube Channels:**
+
 - [Jim’s Garage](https://youtube.com/@jims-garage?si=RKvNDxvR4T-GvEoE) – Practical homelab builds and deep dives.
 - [Christian Lempa](https://youtube.com/@christianlempa?si=enm70wFPAh0qDGLE) – Tutorials and walkthroughs for self-hosting and open-source projects.
 - [Servers at Home](https://youtube.com/@serversathome?si=N1Bxmbxau8t94fy7) – Focused on building and running servers at home.
