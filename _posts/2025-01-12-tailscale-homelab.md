@@ -62,6 +62,8 @@ sudo systemctl enable --now tailscaled
 
 Head to [login.tailscale.com/admin/machines](https://login.tailscale.com/admin/machines) and make sure all your devices appear as **Connected**. Each one gets a unique Tailscale IP and hostname.
 
+![Tailscale Devices](../assets/images/blog/2025/2025-01-12-tailscale-homelab/Tailscale%20Devices.png)
+
 ### 4. Test Connectivity
 
 From one device, try pinging another using its Tailscale IP or hostname:
