@@ -38,72 +38,72 @@ Here are a few reasons why I appreciate WSL:
 
 Microsoft has made installing WSL incredibly straightforward. Here’s how you can do it, step by step:
 
-1. Open Windows Terminal (Admin)
+1. Open Windows Terminal (Admin):
 
-Right-click the Start button and select Terminal (Admin) or Windows Terminal (Admin). If prompted by User Account Control (UAC), click Yes to allow changes.
+    Right-click the Start button and select Terminal (Admin) or Windows Terminal (Admin). If prompted by User Account Control (UAC), click **Yes** to allow changes.
 
-2. Install WSL
+2. Install WSL:
 
-In the Terminal window, enter the following command:
+    In the Terminal window, enter the following command:
 
-```powershell
-wsl --install
-```
+    ```powershell
+    wsl --install
+    ```
 
-This command will:
+    This command will:
 
-- Enable the required Windows features (including WSL and the Virtual Machine Platform).
-- Download and install the latest Linux kernel.
-- Install Ubuntu as the default Linux distribution (unless you specify otherwise).
+    - Enable the required Windows features (including WSL and the Virtual Machine Platform).
+    - Download and install the latest Linux kernel.
+    - Install Ubuntu as the default Linux distribution (unless you specify otherwise).
 
-3. Restart Your Computer
+3. Restart Your Computer:
 
-After the installation completes, you’ll be prompted to restart your computer. This is necessary for the changes to take effect:
+    After the installation completes, you’ll be prompted to restart your computer. This is necessary for the changes to take effect:
 
-```powershell
-Restart-Computer
-```
+    ```powershell
+    Restart-Computer
+    ```
 
-Or simply use the Windows Start menu to restart.
+    Or simply use the Windows Start menu to restart.
 
-4. Set Up Your Linux Distribution
+4. Set Up Your Linux Distribution:
 
-After restarting, open Windows Terminal again (you don’t need admin this time).
-Ubuntu (or your chosen distro) will start automatically.
+    After restarting, open Windows Terminal again (you don’t need admin this time).
+    Ubuntu (or your chosen distro) will start automatically.
 
-You’ll be asked to create a new UNIX username and password (this is for Linux, not your Windows account).
+    You’ll be asked to create a new UNIX username and password (this is for Linux, not your Windows account).
 
-Once set up, you can update your Linux distribution by running:
+    Once set up, you can update your Linux distribution by running:
 
-```bash
-sudo apt update && sudo apt upgrade
-```
+    ```bash
+    sudo apt update && sudo apt upgrade
+    ```
 
-This ensures you have the latest packages and security updates.
+    This ensures you have the latest packages and security updates.
 
-5. (Optional) Install a Different Linux Distribution
+5. (Optional) Install a Different Linux Distribution:
 
-If you want to install a distro other than Ubuntu you can list the available distributions:
+      If you want to install a distro other than Ubuntu you can list the available distributions:
 
-```powershell
-wsl --list --online
-```
+      ```powershell
+      wsl --list --online
+      ```
 
-Install your preferred distro (replace DistroName with the name from the list):
+      Install your preferred distro (replace DistroName with the name from the list):
 
-```powershell
-wsl --install -d DistroName
-```
+      ```powershell
+      wsl --install -d DistroName
+      ```
 
-For example, to install Debian:
+      For example, to install Debian:
 
-```powershell
-wsl --install -d Debian
-```
+      ```powershell
+      wsl --install -d Debian
+      ```
 
-6. Launch and Use WSL
+6. Launch and Use WSL:
 
-You can launch your Linux distribution from the Start menu or directly from Windows Terminal. Access Linux commands and tools as you would on a native Linux system.
+    You can launch your Linux distribution from the Start menu or directly from Windows Terminal. Access Linux commands and tools as you would on a native Linux system.
 
 ## WSL Configuration Settings
 
@@ -170,16 +170,16 @@ WSL allows you to run Linux GUI based apps on Windows. For example, you can run 
 
 1. **Install Nautilus:**
 
-```bash
-sudo apt update
-sudo apt install nautilus -y
-```
+    ```bash
+    sudo apt update
+    sudo apt install nautilus -y
+    ```
 
 2. **Launch Nautilus:**  
 
-```bash
-sudo nautilus
-```
+    ```bash
+    sudo nautilus
+    ```
 
 (Requires WSLg or an X server for GUI support.)
 
