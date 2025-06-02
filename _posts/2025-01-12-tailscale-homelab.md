@@ -90,7 +90,7 @@ Tailscale’s Access Control Lists (ACLs) are a powerful way to define who can a
 - Allow your MacBook Pro and iPhone to access everything.
 - Prevent lab/dev machines from accessing your personal devices.
 
-```
+```json
 {
   "hosts": {
     "macbook-pro": "ip-1",
@@ -129,7 +129,7 @@ By default, devices can’t talk to each other unless you add rules. This “lea
 
 You can add test rules to verify your ACLs work as intended. For example, check if `arkham-app` can access SSH on your MacBook Pro (it shouldn’t):
 
-```
+```json
 {
   "tests": [
     {
