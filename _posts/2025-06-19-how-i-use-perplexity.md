@@ -1,5 +1,5 @@
 ---
-Title: How I Use Perplexity to Stay Informed
+Title: How I Use Perplexity
 Date: 2025-06-19
 Tags: [Perplexity, AI]
 ---
@@ -9,8 +9,10 @@ If there’s one AI tool I reach for every day without fail, it’s [Perplexity]
 ## My Two Main Use Cases: News and Learning
 
 I use Perplexity primarily in two ways:
-	•	** To stay informed ** – I check in with it throughout the day to catch up on current events. In the fast-paced world we live in, it has been such a useful tool to help me stay updated on current affairs. It is accurate, focused, and helps me cut through the noise — and we all know there is plenty of noise.
-	•	** To learn new skills **  – Whether it’s a concept I’ve come across in tech, a historical event I want to understand better, or a tool I want to explore, Perplexity serves as a solid research assistant and resident expert on the topic at hand.
+
+* **To stay informed** – I check in with it throughout the day to catch up on current events. In the fast-paced world we live in, it has been such a useful tool to help me stay updated on current affairs. It is accurate, focused, and helps me cut through the noise — and we all know there is plenty of noise.
+
+* **To learn new skills**  – Whether it’s a concept I’ve come across in tech, a historical event I want to understand better, or a tool I want to explore, Perplexity serves as a solid research assistant and resident expert on the topic at hand.
 
 The way Perplexity distils information and key concepts definitely helps me retain information more efficiently and makes me feel like I’m getting smarter. Whether I am or not is still up for debate.
 
@@ -35,14 +37,17 @@ That said, I do find it to be a bit too US-centric. I’d love to see Perplexity
 ## Grouping Ideas with Spaces
 
 Perplexity Spaces is a standout feature for anyone working across multiple projects or areas of interest. If you’re not using it yet, here’s why you might want to:
-	•	Spaces let you group related chats together — think of it like folders for your AI conversations.
-	•	You can set custom instructions (essentially a system prompt), which apply to every conversation within that space.
+
+* Spaces let you group related chats together — think of it like folders for your AI conversations.
+
+* You can set custom instructions (essentially a system prompt), which apply to every conversation within that space.
 
 For example, I have Spaces dedicated to:
-	•	AI Tools
-	•	Current Affairs
-	•	20th Century History
-	•	90s Culture
+
+* AI Tools
+* Current Affairs
+* 20th Century History
+* 90s Culture
 
 Each Space carries its own context, so I don’t need to repeat myself when returning to a topic. It’s especially useful if you’re doing ongoing research or want more structured results tailored to a specific theme.
 
