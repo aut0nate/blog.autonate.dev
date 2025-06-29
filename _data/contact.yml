@@ -1,31 +1,37 @@
 #  The contact options.  
 
-- type: website  
-  icon: 'fa-solid fa-globe'  
-  url: 'https://nathandarker.it' #Fill with your website
-
 - type: github  
-  icon: "fab fa-github"  
+  icon: "fab fa-github"
+  url: 'https://github.com/aut0nate' #Fill with your GitHub profile link 
   
-- type: linkedin  
-  icon: 'fab fa-linkedin'  
-  url:  'https://www.linkedin.com/in/nathandarker'  # Fill with your Linkedin homepage  
-  
-# - type: twitter  
-#   icon: "fa-brands fa-x-twitter"  
+- type: instagram  
+  icon: 'fa-brands fa-instagram'  
+  url: 'https://www.instagram.com/aut0nate.ai/' #Fill with your Instagram profile link 
   
 - type: bluesky  
   icon: 'fa-brands fa-bluesky'  
   url: 'https://bsky.app/profile/autonate.dev' #Fill with your Bluesky profile link  
-  
+
+- type: linkedin  
+  icon: 'fab fa-linkedin'  
+  url:  'https://www.linkedin.com/in/nathandarker'  # Fill with your Linkedin homepage  
+
+# - type: twitter  
+#   icon: "fa-brands fa-x-twitter"  
+
 # - type: email  
 #   icon: "fas fa-envelope"  
-#   noblank: true # open link in current tab  
-  
-- type: rss  
-  icon: "fas fa-rss"  
-  noblank: true  
-  
+#   noblank: true # open link in current tab
+
+# - type: website  
+#   icon: 'fa-solid fa-globe'  
+#   url: 'https://nathandarker.it' #Fill with your website
+
+# - type: rss  
+#   icon: "fas fa-rss"  
+#   noblank: true
+
+
 # Uncomment and complete the url below to enable more contact options  
 #  
 # - type: mastodon  
