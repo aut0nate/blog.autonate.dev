@@ -1,7 +1,7 @@
 ---
-Title: How I Use Perplexity
-Date: 2025-06-19
-Tags: [Perplexity, AI]
+title: How I Use Perplexity
+date: 2025-06-19
+tags: [AI,LLM,Perplexity]
 ---
 
 If there’s one AI tool I reach for every day without fail, it’s [Perplexity](https://www.perplexity.ai). It has become my go-to assistant for staying up to date with the latest news and exploring new topics. I wanted to share how I use it, why I keep coming back to it, and a few features I think are genuinely worth exploring.
