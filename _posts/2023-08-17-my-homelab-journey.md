@@ -1,7 +1,7 @@
 ---
 title: "My Homelab Journey...So Far"
 date: 2023-08-17
-tags: [homelab]
+tags: [Homelab]
 ---
 
 Diving into the world of Linux naturally led me to discover the vibrant homelab community. What began as casual curiosity soon became a genuine fascination, fuelled by countless YouTube videos showcasing everything from compact, single-board computers to sprawling, business-grade server racks. The creativity and technical depth on display resonated with my own desire to experiment and learn by doing. But as I watched, a set of questions began to form: Did I actually need a homelab? What would I use it for? Did it require a significant investment in hardware? And, crucially, how should I even begin?
