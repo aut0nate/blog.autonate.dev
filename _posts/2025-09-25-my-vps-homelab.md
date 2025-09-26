@@ -70,15 +70,21 @@ I’ve also added [Authentik](https://goauthentik.io/) as my identity provider, 
 
 ## My Lab
 
-Here are some screenshots which demonstrate my setup:
+Here are some screenshots which provide an insight into my setup:
 
 **Portainer**:
 
-![Portainer Dashboard](../assets/images/blog/2025/2025-09-25-my-cloud-homelab-setup/Portainer Home.png)
+![Portainer Dashboard](../assets/images/blog/2025/2025-09-25-my-cloud-homelab-setup/Portainer%20Home.png)
 
-**Tailscale**:
+![Portainer Stacks](../assets/images/blog/2025/2025-09-25-my-cloud-homelab-setup/Portainer%20Stacks.png)
+
+**Cloudflare Tunnel**:
+
+![Cloud Flare](../assets/images/blog/2025/2025-09-25-my-cloud-homelab-setup/Cloud%20Flare.png)
 
 **Nginx Proxy Manager**:
+
+![NPM](../assets/images/blog/2025/2025-09-25-my-cloud-homelab-setup/NPM.png)
 
 
 ## Lessons Learned
