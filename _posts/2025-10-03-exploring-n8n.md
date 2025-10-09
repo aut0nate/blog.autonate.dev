@@ -1,5 +1,5 @@
 ---
-title: "Discovering n8n: The Automation Workflow Platform"
+title: "Discovering n8n: The Workflow Automation Platform"
 date: 2025-10-03
 tags: [Automation,Homelab]
 ---
