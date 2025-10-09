@@ -134,7 +134,7 @@ After confirming the stack was running, I configured my Cloudflare Tunnel and li
 
 ![n8n License Registration](../assets/images/blog/2025/2025-10-03-exploring-n8n/n8n-license-registration.png)
 
-![n8n License Activation](../assets/images/blog/2025/2025-10-03-exploring-n8n/n8n-license-activation.png
+![n8n License Activation](../assets/images/blog/2025/2025-10-03-exploring-n8n/n8n-license-activation.png)
 
 **Note:** If you want to self-host n8n, check out the official [installation guide](https://docs.n8n.io/hosting/installation).
 
