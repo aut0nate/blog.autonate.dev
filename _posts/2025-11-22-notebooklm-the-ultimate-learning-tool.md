@@ -24,7 +24,7 @@ When I tackle a new technical subject, my process is now built entirely around N
 
 3. Next, I leverage the incredible multimodal features to consume the knowledge in different ways, dramatically boosting retention.
 
-![NotebookLM Workbook](../assets/images/blog/2025/2025-11-22-notebooklm-the-ultimate-learning-tool/NotebookLM-Workbook.png)
+![NotebookLM Workbook](../assets/images/blog/2025/2025-11-22-notebooklm-the-ultimate-learning-tool/NotebookLM%20Workbook.png)
 
 #### Turning Notes into Narratives: Audio and Video Overviews
 
