@@ -1,5 +1,5 @@
 ---
-title: "NotebookLM: The Ultimate Learning Assistant
+title: "NotebookLM: The Ultimate Learning Assistant"
 date: 2025-11-22
 tags: [AI,LLM,Google,Gemini]
 ---
